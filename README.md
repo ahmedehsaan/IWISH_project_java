@@ -1,7 +1,7 @@
 # IWISH_project_java
  i-Wish is a fun and interactive desktop application that provides users with an enjoyable experience while allowing them to make their friends happy by contributing to the purchase of items from their wish lists.
  
- i-Wish Project Description
+# i-Wish Project Description
 
 i-Wish is a desktop application that allows users to create a wish list, add friends, view friends' wish lists, and contribute to the purchase of items from their friends' lists. The application provides a fun and interactive way for users to make their friends happy by gifting them items from their wish lists.
 
