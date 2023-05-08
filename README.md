@@ -12,6 +12,10 @@ The application's user interface is designed to be user-friendly, providing an e
 The server-side of the application is responsible for handling client connections, requests, and the completion of shared gift items. The server is also responsible for manipulating the database, including connecting to it, executing queries, and adding items to the database, which users can then use to build their wish lists. The server is designed to handle a large number of users, ensuring that the application remains stable and responsive.
 
 
+![image](https://user-images.githubusercontent.com/95180897/236897672-2cd249b6-1c8e-4da9-a20f-2bb10310b95f.png)
+
+
+
 
 
 ![Screenshot 2023-05-08 205314](https://user-images.githubusercontent.com/95180897/236897022-b8566caa-455b-4a54-b28b-9ea1c9b2d1f5.png)
